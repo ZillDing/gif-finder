@@ -1,5 +1,7 @@
 # Gif Finder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zillding/gif-finder.svg)](https://greenkeeper.io/)
+
 A simple react redux app to search for gifs using giphy [api](https://github.com/Giphy/GiphyAPI)
 
 ## Installation
